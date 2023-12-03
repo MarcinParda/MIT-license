@@ -1,2 +1,1 @@
-# MIT-license
-MIT license for my projects
+# Repo with my licenses
